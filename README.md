@@ -2,7 +2,9 @@
 
 The idea behind this project is to help mastering golang.
 
-You can refer to this documentation to start a project from scratch: https://golang.org/doc/code
+First, you want to install go on your machine: https://golang.org/dl/
+
+Then, you can refer to this documentation to start a project from scratch: https://golang.org/doc/code
 
 If you are using VSCode, you might want to install the extension: Go for VS Code
 
